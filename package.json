@@ -1,0 +1,26 @@
+{
+    "name": "vscode-better-frontend-extension-pack",
+    "displayName": "Better Front-End Extension Pack",
+    "description": "VSCode extension pack to improve your Front-End development workflow.",
+    "publisher": "gquittet",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-frontend-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-frontend-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bradlc.vscode-tailwindcss",
+        "firefox-devtools.vscode-firefox-debug",
+        "ritwickdey.liveserver"
+    ]
+}
