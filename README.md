@@ -7,7 +7,6 @@ To fix this, I made this extension pack that add powers to VSCode.
 
 - bradlc.vscode-tailwindcss
 - firefox-devtools.vscode-firefox-debug
-- msjsdiag.debugger-for-chrome
 - ritwickdey.liveserver
 
 **Enjoy!**

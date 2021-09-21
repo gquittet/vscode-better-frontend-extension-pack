@@ -21,7 +21,6 @@
     "extensionPack": [
         "bradlc.vscode-tailwindcss",
         "firefox-devtools.vscode-firefox-debug",
-        "msjsdiag.debugger-for-chrome",
         "ritwickdey.liveserver"
     ]
 }
