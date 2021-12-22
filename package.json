@@ -3,7 +3,7 @@
     "displayName": "Better Front-End Extension Pack",
     "description": "VSCode extension pack to improve your Front-End development workflow.",
     "publisher": "gquittet",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "git@github.com:gquittet/vscode-better-frontend-extension-pack.git"
