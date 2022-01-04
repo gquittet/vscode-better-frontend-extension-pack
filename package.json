@@ -20,6 +20,7 @@
     ],
     "extensionPack": [
         "bradlc.vscode-tailwindcss",
+        "csstools.postcss",
         "firefox-devtools.vscode-firefox-debug",
         "ritwickdey.liveserver"
     ]
